@@ -1,0 +1,7 @@
+On the channels.txt, paste your YouTube channels IDs
+
+In order to do this, open your browser and go to the main page of a desired channel, then right click in any blank space and select "View Page Source", it will redirect to an xml file
+
+Then, press Ctrl+F or F3, paste 'https://www.youtube.com/channel/U', and copy the line in quotes, in the example channel I left on the file, It's "https://www.youtube.com/channel/UC5UAwBUum7CPN"
+
+Once you have that, paste that (minus the quotation marks), on the channels.txt file, and voilá, new channel added to the list. I think there's an easier way to do this using yt-dlp on terminal, but i don't know
