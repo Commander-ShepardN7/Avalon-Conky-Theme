@@ -19,11 +19,11 @@ I named it Avalon because of King Arthur's myths. Credit to igorw765 (https://gi
 # Installation
 1. Install the required dependencies if they aren't already installed
 
-```sudo apt-get install conky calcurse jq lm-sensors yt-dlp ansiweather cairo ffmpeg playerctl sed git```
+```sudo apt-get install conky calcurse jq lm-sensors yt-dlp cairo ffmpeg playerctl sed git```
 
 2. Go to your Conky directory and clone the repo
 
-```cd ~/.config/Conky/```
+```cd ~/.config/conky/```
 ```git clone https://github.com/Commander-ShepardN7/Avalon-Conky-Theme.git```
 
 3. Play with the ```offset```, ```voffset``` variables.
